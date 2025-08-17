@@ -1,0 +1,46 @@
+Privacy Policy – Quick Access
+Effective as of: 2025-08-17
+
+Summary
+Quick Access displays advertising via Google AdMob. Your own items (e.g., links, names, categories, app settings) are stored locally on your device and are not transmitted to our own servers.
+
+In the EU/UK/CH, only non‑personalized ads (NPA) are currently served. A consent dialog (CMP/UMP) is not shown at this time.
+
+What data does the app process?
+1) Local app data (stays on device)
+Your entries: links, names, categories, favorites
+App settings (layout, sorting, theme, etc.)
+2) Processing by Google AdMob (ads)
+To deliver, measure, and improve ads, Google (AdMob) may process in particular:
+
+Advertising ID (Android Advertising ID) and possibly other device identifiers
+IP address and approximate location (e.g., country/region)
+Device and app information (model, OS version, app version, language)
+Usage/event data (e.g., ad impressions, clicks, errors)
+Diagnostics and performance data
+Ad personalization is disabled. Non‑personalized ads (NPA) may still use technical identifiers for frequency capping, fraud prevention, and reach measurement.
+
+Google references:
+
+Privacy Policy: policies.google.com/privacy
+Ads & Partners: policies.google.com/technologies/ads
+My Ad Center: myadcenter.google.com
+Your choices
+Reset Advertising ID / Disable personalization: Android → Settings → Google → Ads.
+My Ad Center: Manage ad topics/partners (link above).
+Sharing with third parties
+For advertising purposes, data is shared with Google (AdMob) and, where applicable, its ad partners. We do not use our own servers.
+
+Permissions
+Quick Access does not request sensitive permissions such as contacts, location, microphone, or camera. Network access is required to serve ads and open external links.
+
+Children
+The app is not directed to children under the age of 13.
+
+Changes
+This privacy policy may be updated. Material changes will be indicated in the app and/or in the store listing.
+
+Contact
+For privacy inquiries, please use the developer contact email provided in the Google Play listing.
+
+Note: If a consent dialog (CMP/UMP) is introduced in the future, this privacy policy will be updated accordingly.
