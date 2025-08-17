@@ -1,0 +1,46 @@
+Datenschutzerklärung – Quick Access
+Gültig ab: 2025-08-17
+
+Kurzfassung
+Quick Access zeigt Werbung über Google AdMob an. Eigene Nutzerdaten (z. B. Ihre Links, Namen, Kategorien, App‑Einstellungen) werden ausschließlich lokal auf Ihrem Gerät gespeichert und nicht an eigene Server übertragen.
+
+In der EU/UK/CH werden aktuell ausschließlich nicht‑personalisierte Anzeigen (NPA) ausgeliefert. Es wird derzeit kein Einwilligungsdialog (CMP/UMP) angezeigt.
+
+Welche Daten verarbeitet die App?
+1) Lokale App‑Daten (bleiben auf dem Gerät)
+Von Ihnen angelegte Einträge: Links, Namen, Kategorien, Favoriten
+App‑Einstellungen (Layout, Sortierung, Theme, etc.)
+2) Datenverarbeitung durch Google AdMob (Werbung)
+Zur Auslieferung, Messung und Verbesserung von Werbung kann Google (AdMob) insbesondere folgende Informationen verarbeiten:
+
+Werbe‑ID (Android Advertising ID) und ggf. weitere Gerätekennungen
+IP‑Adresse sowie ungefähre Standortdaten (z. B. Land/Region)
+Geräte‑ und App‑Informationen (Modell, OS‑Version, App‑Version, Sprache)
+Nutzungs‑/Ereignisdaten (z. B. Anzeigenimpressionen, Klicks, Fehlermeldungen)
+Diagnose‑ und Leistungsdaten
+Die Personalisierung von Werbung ist deaktiviert. Nicht‑personalisierte Anzeigen (NPA) können von Google weiterhin technische Kennungen nutzen (z. B. für Frequenzbegrenzung, Betrugsbekämpfung und Reichweitenmessung).
+
+Hinweise & Links von Google:
+
+Datenschutz: policies.google.com/privacy
+Werbung & Partner: policies.google.com/technologies/ads
+My Ad Center (Werbeeinstellungen): myadcenter.google.com
+Ihre Optionen
+Werbe‑ID zurücksetzen / Personalisierung deaktivieren: Android → Einstellungen → Google → Werbung.
+My Ad Center: Präferenzen zu Werbethemen/Anbietern verwalten (Link oben).
+Weitergabe an Dritte
+Für Werbezwecke werden Daten an Google (AdMob) und ggf. an dessen Werbepartner übermittelt. Eigene Server der App‑Anbieter werden nicht genutzt.
+
+Berechtigungen
+Quick Access verlangt keine sensiblen Berechtigungen wie Kontakte, Standort, Mikrofon oder Kamera. Netzwerkzugriff ist für die Auslieferung von Anzeigen und das Öffnen externer Links erforderlich.
+
+Kinder
+Die App richtet sich nicht an Kinder unter 13 Jahren.
+
+Änderungen
+Diese Datenschutzerklärung kann aktualisiert werden. Künftige Änderungen werden in der App bzw. im Store‑Eintrag kenntlich gemacht.
+
+Kontakt
+Für Datenschutzanfragen nutzen Sie bitte die im Google‑Play‑Eintrag angegebene Entwickler‑Kontakt‑E‑Mail.
+
+Hinweis: Sollten künftig Einwilligungsdialoge (CMP/UMP) eingeführt werden, wird diese Erklärung entsprechend ergänzt.
