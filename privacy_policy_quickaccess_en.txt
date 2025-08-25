@@ -34,6 +34,9 @@ For advertising purposes, data is shared with Google (AdMob) and, where applicab
 Permissions
 Quick Access does not request sensitive permissions such as contacts, location, microphone, or camera. Network access is required to serve ads and open external links.
 
+Donation link (Buy Me a Coffee)
+The app contains an optional donation link that opens in the external browser. No personal data is processed by the app for this. Any subsequent processing (e.g., IP address, cookies/trackers, payment data) is carried out solely by Buy Me a Coffee. See their privacy policy: https://www.buymeacoffee.com/privacy-policy.
+
 Children
 The app is not directed to children under the age of 13.
 
